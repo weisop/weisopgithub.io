@@ -41,7 +41,7 @@
   color: #888;
 }
 
-/* Grid still applies to project cards */
+Grid still applies to project cards
 .projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
